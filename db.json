@@ -1,6 +1,6 @@
 {
     "projects": [
-        {"name": "Circulr", "id": 1, "details": "lorem", "img": "https://ibb.co/hLDqm3r"},
+        {"name": "Circulr", "id": 1, "details": "lorem", "img": "https://github.com/zancrash/portfolio/blob/master/src/assets/circulr_mockup-min.png"},
         {"name": "KDJ", "id": 2, "details": "lorem", "img": "https://ibb.co/hZFF8Xk"},
         {"name": "UFCW 175 & 633", "id": 3, "details": "lorem", "img": "https://ibb.co/q0CcBtz"},
         {"name": "Rutherford & Mathews", "id": 4, "details": "lorem", "img": "https://ibb.co/2vHn2BW"}
