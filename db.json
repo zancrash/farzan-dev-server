@@ -1,9 +1,9 @@
 {
     "projects": [
-        {"name": "Circulr", "id": 1, "details": "lorem", "img": "https://github.com/zancrash/portfolio/blob/master/src/assets/circulr_mockup-min.png"},
-        {"name": "KDJ", "id": 2, "details": "lorem", "img": "https://ibb.co/hZFF8Xk"},
-        {"name": "UFCW 175 & 633", "id": 3, "details": "lorem", "img": "https://ibb.co/q0CcBtz"},
-        {"name": "Rutherford & Mathews", "id": 4, "details": "lorem", "img": "https://ibb.co/2vHn2BW"}
+        {"name": "Circulr", "id": 1, "details": "lorem", "img": "https://raw.githubusercontent.com/zancrash/portfolio/master/src/assets/circulr_mockup-min.png"},
+        {"name": "KDJ", "id": 2, "details": "lorem", "img": "https://raw.githubusercontent.com/zancrash/portfolio/master/src/assets/kdj.png"},
+        {"name": "UFCW 175 & 633", "id": 3, "details": "lorem", "img": "https://raw.githubusercontent.com/zancrash/portfolio/master/src/assets/ufcw.png"},
+        {"name": "Rutherford & Mathews", "id": 4, "details": "lorem", "img": "https://raw.githubusercontent.com/zancrash/portfolio/master/src/assets/rm.png"}
 
     ]
 }
