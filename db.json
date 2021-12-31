@@ -21,7 +21,7 @@
             "name": "MuSpace",
             "id": 2,
             "details": "MuSpace is a music sharing web app built as a software development group project in my CS program at WLU. <br><br>I worked as part of a development team, we each were assigned specific tasks in the development process, I worked primarily on the front-end components along with other students. beyond just technical experience, it also gave me design and project management experience. <br><br>MuSpace was built using the ReactJS framework and uses Firebase as a back-end. It also uses the Spotify API to fetch user song data and listening habits.",
-            "img": "https://raw.githubusercontent.com/zancrash/portfolio/master/src/assets/MuSpace-screen.png",
+            "img": "https://raw.githubusercontent.com/zancrash/portfolio/master/src/assets/muspace-screen.png",
             "links": "<a class=\"project-link\" href=\"https://github.com/SherRao/MuSpace\" target=\"blank\"><p>Github</p></a>",
             "tags": [
                 "web app",
